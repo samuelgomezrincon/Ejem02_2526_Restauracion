@@ -1,3 +1,5 @@
+Nobre del propietario del proyecto: Samuel Gomez.
+
 # Ejem02_2526_Restauracion
 
 # h1
