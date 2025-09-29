@@ -1,3 +1,5 @@
+Propietario: Samuel Gomez
+
 # Ejem02_2526_Restauracion
 
 # H1
